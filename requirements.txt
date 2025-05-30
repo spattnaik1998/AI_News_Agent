@@ -1,0 +1,59 @@
+# Core CrewAI dependencies
+crewai
+crewai-tools
+langchain-community
+
+# Streamlit for UI
+streamlit
+
+# Document processing
+python-docx
+
+# PDF generation (primary method)
+pdfkit
+markdown
+
+# PDF generation (fallback method)
+reportlab
+
+# RAG and Vector Search
+openai
+faiss-cpu
+numpy
+
+# Data handling
+pydantic
+
+# Additional utilities
+pathlib2
+datetime
+
+# Optional: For better performance
+pandas # Core CrewAI dependencies
+crewai
+crewai-tools
+langchain-community
+
+# Streamlit for UI
+streamlit
+
+# Document processing
+python-docx
+
+# PDF generation (primary method)
+pdfkit
+markdown
+
+# PDF generation (fallback method)
+reportlab
+
+# Data handling
+pydantic
+
+# Additional utilities
+pathlib2
+datetime
+
+# Optional: For better performance
+pandas
+numpy
